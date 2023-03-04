@@ -26,10 +26,11 @@
   align-items: center;
   justify-content: space-between;
   padding: 0.5rem;
+
 }
 
 .result p {
-  color: #fff;
+  color: black;
   border: 1px solid var(--primary-color);
   padding: 0.5rem 1rem;
   margin-right: 1rem;
@@ -44,7 +45,7 @@
 }
 
 .result button.copied {
-  background: #fff;
+  background-color: #fff;
   color: var(--primary-color);
 }
 
@@ -72,7 +73,7 @@
   font-weight: bold;
   border-top-right-radius: 3px;
   border-bottom-right-radius: 3px;
-  color: #fff;
+
   cursor: pointer;
   border: none;
   background-color: var(--primary-color);
